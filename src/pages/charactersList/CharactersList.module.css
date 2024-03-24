@@ -1,0 +1,11 @@
+
+.charactersList{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+    justify-items: center;
+    align-items: center;
+}
+.loaderList{
+    display: flex;
+}

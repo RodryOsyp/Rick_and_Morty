@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+.search{
+    display: flex;
+    width: 500px;
+    
+}
+.character{
+    display: flex;
+    
+}
+.container{
+    display: flex;
+    gap: 15px;
+}

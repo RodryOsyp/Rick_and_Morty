@@ -1,0 +1,84 @@
+.footer {
+  width: 98.9vw;
+  height: 400px;
+  margin: 0 auto;
+  font-weight: 900;
+  background-color: #1d2641;
+  position: relative;
+}
+.text {
+  position: absolute;
+  display: flex;
+  margin-top: 10px;
+  top: 10%;
+  left: 5%;
+  font-size: 70px;
+  color: #fefefe;
+}
+.creators {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  font-size: 50px;
+  color: #fefefe;
+}
+.creator1 {
+  display: flex;
+  font-size: 30px;
+}
+.company {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  flex-direction: column;
+  font-size: 50px;
+  color: #fefefe;
+}
+.adj {
+  display: flex;
+  font-size: 30px;
+}
+.icon1 {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  top: 10%;
+  left: 80%;
+  flex-direction: column;
+  font-size: 50px;
+  color: #fefefe;
+}
+.icon2 {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  top: 10%;
+  left: 85%;
+  flex-direction: column;
+  font-size: 50px;
+  color: #fefefe;
+}
+.icon3 {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  top: 10%;
+  left: 90%;
+  flex-direction: column;
+  font-size: 50px;
+  color: #fefefe;
+}
+.icon4 {
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  top: 10%;
+  left: 75%;
+  flex-direction: column;
+  font-size: 50px;
+  color: #fefefe;
+}
